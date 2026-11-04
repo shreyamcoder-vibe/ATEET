@@ -5,7 +5,7 @@
 Unstructured Cultural & Architectural Heritage Archives\
 **Team:** Black Rose\
 **Live demo:** <https://ateet-seven.vercel.app/>\
-**Repository:** <https://github.com/shreyamcoder-vibe/ATEET>
+
 
 ------------------------------------------------------------------------
 
