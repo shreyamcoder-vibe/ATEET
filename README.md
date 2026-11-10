@@ -374,11 +374,4 @@ Archival records include source and attribution metadata. Consult the individual
 
 Third-party photographs and historical materials remain subject to their respective copyright, public-domain status, and Creative Commons license terms. Reuse should follow the original source's terms and attribution requirements.
 
----
-
-### ATEET
-
-**From fragmented historical documentation to interconnected spatial heritage knowledge.**
--------------------------------------------------------------------------------
-
-**Explore ATEET:** <https://ateet-seven.vercel.app/>
+----------------------------------------------------------------------------------------------------
