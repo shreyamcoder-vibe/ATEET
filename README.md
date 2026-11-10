@@ -1,8 +1,7 @@
 # ATEET --- An AI-Ready Immersive Digital Heritage Archive
 
-**Hackathon:** HackCult '26 --- IIT Gandhinagar\
-**Problem statement:** HC26-CULT01 --- Digital Revitalisation of
-Unstructured Cultural & Architectural Heritage Archives\
+**Focus:** Digital Revitalisation of Unstructured Cultural &
+Architectural Heritage Archives\
 **Team:** Black Rose\
 **Live demo:** <https://ateet-seven.vercel.app/>\
 
@@ -34,9 +33,9 @@ and relationships can support future semantic discovery and retrieval
 systems. The current release does not claim to run live OCR, NLP, or
 generative-AI inference.
 
-## 2. Problem Statement
+## 2. Problem We Address
 
-**HC26-CULT01 --- Cultural & Architectural Heritage Archives**
+**Cultural & Architectural Heritage Archives**
 
 Heritage documentation may be fragmented across historical photographs,
 inscriptions and epigraphic publications, archaeological surveys,
@@ -407,9 +406,7 @@ storage and search infrastructure.
 ## 15. Team
 
 **Team name:** Black Rose\
-**Event:** HackCult '26 --- IIT Gandhinagar\
-**Problem statement:** HC26-CULT01 --- Cultural & Architectural Heritage
-Archives
+**Focus:** Cultural & Architectural Heritage Archives
 
 ## 16. License and Attribution
 

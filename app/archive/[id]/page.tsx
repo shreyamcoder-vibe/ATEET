@@ -128,7 +128,7 @@ export default function RecordDetailPage({
       </main>
 
       <footer className="mt-20 border-t border-white/10 py-8 text-center text-xs text-white/40">
-        <p>ATEET Digital Heritage Archive · HackCult &apos;26 IIT Gandhinagar</p>
+        <p>ATEET · Digital Heritage Archive</p>
       </footer>
     </div>
   );

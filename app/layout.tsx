@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ATEET | Immersive Heritage Exploration",
+  title: "ATEET | Digital Heritage Archive",
   description:
-    "Explore India's cultural heritage through immersive 3D experiences and an AI-ready digital heritage archive.",
+    "An AI-ready digital heritage archive connecting fragmented cultural and architectural records with interactive 3D spatial exploration.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

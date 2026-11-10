@@ -177,10 +177,10 @@ export default function Home() {
             transition={{ duration: 0.85 }}
             className="max-w-2xl lg:max-w-3xl"
           >
-            {/* Problem Statement & Mission Badge */}
+            {/* Archive Identity Badge */}
             <div className="mb-6 inline-flex items-center gap-2.5 rounded-full border border-[#c6a66b]/30 bg-[#10120f]/85 px-4 py-1.5 text-[11px] font-medium tracking-widest text-[#dfc18a] uppercase shadow-lg backdrop-blur-md">
               <span className="h-1.5 w-1.5 rounded-full bg-[#c6a66b] animate-pulse" />
-              HackCult &apos;26 · Problem HC26-CULT01
+              Digital Heritage Archive
             </div>
 
             {/* Preserved Prominent Headline */}
@@ -511,7 +511,7 @@ export default function Home() {
         <div className="mx-auto max-w-7xl">
           <div className="mb-14 max-w-2xl">
             <div className="mb-3 flex items-center gap-2 text-xs uppercase tracking-[0.25em] text-[#c6a66b]">
-              <Layers size={14} /> Problem Statement HC26-CULT01 Architecture
+              <Layers size={14} /> Cultural &amp; Architectural Heritage
             </div>
             <h2 className="text-3xl font-light sm:text-4xl md:text-5xl">
               Three Connected Pillars of
@@ -903,7 +903,7 @@ export default function Home() {
               Digital Revitalisation of Unstructured Cultural &amp; Architectural Heritage Archives
             </p>
             <p className="mt-1 font-mono text-[11px] text-[#c6a66b]/80">
-              HackCult &apos;26 · Problem Statement HC26-CULT01 · IIT Gandhinagar
+              Digital Heritage Archive · Cultural &amp; Architectural Heritage
             </p>
           </div>
 

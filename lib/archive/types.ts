@@ -1,6 +1,6 @@
 /**
  * ATEET Heritage Archive Data Types
- * Problem Statement: HC26-CULT01 (HackCult '26 - IIT Gandhinagar)
+ * Cultural & Architectural Heritage Archive Data Model
  * 
  * Reusable, strongly typed archival data model designed to support:
  * 1. Heritage Archive Management & Provenance

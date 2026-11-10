@@ -23,7 +23,7 @@ export function ArchiveNavbar({ totalRecordsCount = 9 }: ArchiveNavbarProps) {
 
           <div className="h-4 w-px bg-white/15" />
 
-          <Link href="/archive" className="flex items-center gap-2.5">
+          <Link href="/" className="flex items-center gap-2.5">
             <span className="text-xl font-semibold tracking-[0.2em] text-[#f2eee4]">
               ATEET<span className="text-[#c6a66b]">.</span>
             </span>

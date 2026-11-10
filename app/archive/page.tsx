@@ -106,7 +106,7 @@ export default function ArchiveExplorerPage() {
             <div className="max-w-3xl">
               <div className="mb-3 flex items-center gap-2 text-xs uppercase tracking-[0.25em] text-[#c6a66b]">
                 <span className="h-px w-8 bg-[#c6a66b]" />
-                HC26-CULT01 · HackCult &apos;26 IIT Gandhinagar
+                Cultural &amp; Architectural Heritage
               </div>
               <h1 className="text-3xl font-light tracking-tight text-[#f2eee4] sm:text-5xl">
                 Unstructured Heritage Archive
@@ -351,7 +351,7 @@ export default function ArchiveExplorerPage() {
 
       {/* Footer */}
       <footer className="mt-20 border-t border-white/10 py-8 text-center text-xs text-white/40">
-        <p>ATEET Digital Heritage Archive · HackCult &apos;26 IIT Gandhinagar</p>
+        <p>ATEET · Digital Heritage Archive</p>
         <p className="mt-1">
           Ground-truth historical documentation adhering to ASI and open archival provenance standards.
         </p>
